@@ -1,39 +1,39 @@
 Subject		  			1 
-	Identifier of Testing or Training Subject 
-		1 to 30
+    Identifier of Testing or Training Subject 
+        1 to 30
 		
 ActivityName			20
-	Activity performed by Test or Training Subject	
-		1 WALKING
-		2 WALKING_UPSTAIRS
-		3 WALKING_DOWNSTAIRS
-		4 SITTING
-		5 STANDING
-		6 LAYING
+    Activity performed by Test or Training Subject	
+        1 WALKING
+        2 WALKING_UPSTAIRS
+        3 WALKING_DOWNSTAIRS
+        4 SITTING
+        5 STANDING
+        6 LAYING
 
 tBodyAcc.mean...X		19	
-	Estimated body acceleration mean for the X-axis
+    Estimated body acceleration mean for the X-axis
 
 tBodyAcc.mean...Y		19
-	Estimated body acceleration mean for the Y-axis
+    Estimated body acceleration mean for the Y-axis
 
 tBodyAcc.mean...Z		19	
-	Estimated body acceleration mean for the Z-axis
+    Estimated body acceleration mean for the Z-axis
 
-tBodyAcc.std...X
-	Estimated body acceleration standard deviation for the X-axis
+tBodyAcc.std...X		19
+    Estimated body acceleration standard deviation for the X-axis
 	
 tBodyAcc.std...Y		19
-	Estimated body acceleration standard deviation for the Y-axis
+    Estimated body acceleration standard deviation for the Y-axis
 
 tBodyAcc.std...Z		19
-	Estimated body acceleration standard deviation for the Z-axis
+    Estimated body acceleration standard deviation for the Z-axis
 	
 tGravityAcc.mean...X	19
-	Gravity acceleration mean for the X-axis
+    Gravity acceleration mean for the X-axis
 	
 tGravityAcc.mean...Y	19
-	Gravity acceleration mean for the Y-axis
+    Gravity acceleration mean for the Y-axis
 
 tGravityAcc.mean...Z	19
 	Gravity acceleration mean for the Z-axis
